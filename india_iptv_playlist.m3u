@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="071" tvg-name="Asianet HD" group-title="Malayalam",Asianet HD (1080p)
+http://example.com/stream/071.m3u8
+#EXTINF:-1 tvg-id="072" tvg-name="Asianet Movies" group-title="Malayalam",Asianet Movies (396p)
+http://example.com/stream/072.m3u8
+#EXTINF:-1 tvg-id="407" tvg-name="Mazhavil Manorama" group-title="Malayalam",Mazhavil Manorama (576p)
+http://example.com/stream/407.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="Mazhavil Manorama HD" group-title="Malayalam",Mazhavil Manorama HD (1080p)
+http://example.com/stream/408.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="Sun Surya HD" group-title="Malayalam",Sun Surya HD (1080p)
+http://example.com/stream/703.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="Kairali TV" group-title="Malayalam",Kairali TV (576p)
+http://example.com/stream/354.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="Kappa TV" group-title="Malayalam",Kappa TV (576p)
+http://example.com/stream/362.m3u8
+#EXTINF:-1 tvg-id="050" tvg-name="Amrita TV" group-title="Malayalam",Amrita TV (720p)
+http://example.com/stream/050.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="Darshana TV" group-title="Malayalam",Darshana TV (576p)
+http://example.com/stream/153.m3u8
+#EXTINF:-1 tvg-id="013" tvg-name="24 News" group-title="Malayalam",24 News (576p)
+http://example.com/stream/013.m3u8
+#EXTINF:-1 tvg-id="073" tvg-name="Asianet News" group-title="Malayalam",Asianet News (1080p)
+http://example.com/stream/073.m3u8
+#EXTINF:-1 tvg-id="398" tvg-name="Manorama News" group-title="Malayalam",Manorama News (1080p)
+http://example.com/stream/398.m3u8
+#EXTINF:-1 tvg-id="406" tvg-name="Mathrubhumi News" group-title="Malayalam",Mathrubhumi News (576p)
+http://example.com/stream/406.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="Media One" group-title="Malayalam",Media One (720p)
+http://example.com/stream/410.m3u8
+#EXTINF:-1 tvg-id="585" tvg-name="Reporter TV" group-title="Malayalam",Reporter TV (576p)
+http://example.com/stream/585.m3u8
